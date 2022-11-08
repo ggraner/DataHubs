@@ -7,6 +7,7 @@ There are different Layers, Processes, Connections, Dependencies and Terms used 
 
 ![](framework_core.jpg)
 
+
 The most important Terms are:
 * Data Scope
 * Data Import Layer
