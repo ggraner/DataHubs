@@ -16,4 +16,4 @@ The most important Terms are:
 * Presentation Layer
 * Value Creation and Enhancement Process
 
-You'll find the File in the Download Section.
+You'll find the File in the Download Section. It's editable with https://www.diagrams.net/
