@@ -3,7 +3,7 @@ layout: post
 title: Framework Core
 ---
 
-### About the Book
+### The Framework Core
 
 There are different Layers, Processes, Connections, Dependencies and Terms used to cover a broad range of categories or "ingredients" for a Data Hub.
 
