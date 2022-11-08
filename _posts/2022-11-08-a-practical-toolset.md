@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using a practical Framework as Toolset
+title: What is the BOOK about?
 ---
 
 Building an Operating Data Hubs introduces a practical framework as Toolset. The book should help to get a clear picture of your Data Environment and the interlink between your Data Products, your Databases, Data Warehouses and all your structured and unstructured Data.
