@@ -12,8 +12,6 @@ There are different Layers, Processes, Connections, Dependencies and Terms used 
 12
 ![](https://github.com/ggraner/DataHubs/blob/8d84b2b1bdccc8e8a7b164a157196b32de788f9a/framework_core.jpg)
 
-
-
 The most important Terms are:
 * Data Scope
 * Data Import Layer
