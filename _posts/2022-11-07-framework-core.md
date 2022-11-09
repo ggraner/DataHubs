@@ -19,4 +19,6 @@ The most important categories are:
 All of them describe a specific part of the whole concept. The parts are linked and related.  
 
 You'll find the File in the Download Section.
+<button class="button">Download Zip</button>
+
 It's editable with <a href="https://www.diagrams.net">diagrams.net</a>
