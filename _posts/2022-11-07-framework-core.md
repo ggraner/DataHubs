@@ -18,7 +18,10 @@ The most important categories are:
 
 All of them describe a specific part of the whole concept. The parts are linked and related.  
 
-You'll find the File in the Download Section.
-<button class="button">Download Zip</button>
+You'll find the File also in the Download Section.
+
+<a href="{{ site.github.repo }}/DataHubs/download/framework.zip">
+<button class="button">Download Files</button>
+</a>
 
 It's editable with <a href="https://www.diagrams.net">diagrams.net</a>

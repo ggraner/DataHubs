@@ -262,8 +262,10 @@ tbody tr:nth-child(odd) th {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-/*  background-color: #495deb; blue*/
-  background-color: #d8de48; /*yellow */
+  border-radius: 3px;
+  background-color: #495deb; /*blue*/
+/*  background-color: #d8de48; yellow */
+
 }
 
 
