@@ -25,3 +25,4 @@ You'll find the File also in the Download Section.
 </a>
 
 It's editable with <a href="https://www.diagrams.net">diagrams.net</a>
+This work is licensed under CC BY-NC-SA 4.0
