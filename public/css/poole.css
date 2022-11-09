@@ -268,9 +268,10 @@ tbody tr:nth-child(odd) th {
 
 }
 
-.icon {
+.icon_top {
    float: left;
-   margin: 5px;
+   margin-top: -7px;
+   margin-right: 5px;
  }
 
 
